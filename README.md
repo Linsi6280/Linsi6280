@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- [Implementing and Comparing Optimal Survival Tree Algorithm](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Implementing and Comparing Optimal Survival Tree Algorithm](https://github.com/Linsi6280/Optimal-Survial-Tree-Algorithm)
 - [Course Schedule Optimization](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 <h2> 🤳 Connect with me:</h2>
