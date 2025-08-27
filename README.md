@@ -2,12 +2,11 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- [ShopEasy Marketing Analytics](https://github.com/Linsi6280/shopeasy-marketing-analytics)
 - [Implementing and Comparing Optimal Survival Tree Algorithm](https://github.com/Linsi6280/Optimal-Survial-Tree-Algorithm)
 - [Course Schedule Optimization](https://github.com/Linsi6280/Course-Schedule-Optimization)
+
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/linsiyei/
-[linkedin]: https://www.linkedin.com/in/linsizhong
+<a href="https://www.linkedin.com/in/linsizhong"><img src="https://img.shields.io/badge/LinkedIn-linsizhong-3366ff" /></a>
+<a href="https://www.instagram.com/linsiyei/"><img src="https://img.shields.io/badge/Instagram-linsiyei-ffff00" /></a>
